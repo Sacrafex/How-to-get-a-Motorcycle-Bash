@@ -24,7 +24,7 @@ sleep 1
 typewriter ""
 typewriter "[RISK FACTORS & CRASH CONTRIBUTIONS]" 0.03
 typewriter "✔ DOT Helmet:             ×0.63 risk  — Head injury = 37% of fatal crashes (Helmets are cool)" 0.01
-typewriter "✔ MSF Safety Course:      ×0.5 risk   — 50% of crashes involve untrained riders (I will take MSF course and learn from Nik & Babi)" 0.01
+typewriter "✔ MSF Safety Course:      ×0.5 risk   — 50% of crashes involve untrained riders" 0.01
 typewriter "✔ No Alcohol:             ×0.72 risk  — 28% of fatalities involve alcohol (I am not 21 yet)" 0.01
 typewriter "✔ Daylight Riding:        ×0.5 risk   — 50% less accidents in daylight (None of my events are at night)" 0.01
 typewriter "✔ Full Gear:              ×0.9 injury — 10% of severe injuries avoidable w/ gear (Gear is cool)" 0.01
